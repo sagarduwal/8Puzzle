@@ -1,0 +1,3 @@
+class ASTAR {
+    ASTAR() {};
+}
